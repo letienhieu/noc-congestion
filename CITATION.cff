@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper below."
+title: "Network-on-Chip Congestion Prediction Using Spatiotemporal Graph Neural Networks and a Neo4j Graph Database"
+abstract: "Reproducibility artifact for an offline framework that predicts short-term per-router Network-on-Chip congestion, integrating a customised BookSim2 simulator, a Neo4j unified graph store for static topology and dynamic state, and a multi-seed comparison of topology-aware and topology-agnostic next-step buffer-occupancy predictors."
+type: software
+authors:
+  - given-names: Tien-Hieu
+    family-names: Le
+    email: letienhieu@mcs.edu.vn
+    orcid: "https://orcid.org/0009-0000-6896-0292"
+    affiliation: "VNU Information Technology Institute, Vietnam National University, Hanoi (VNU-ITI), Vietnam"
+  - given-names: Duy-Hieu
+    family-names: Bui
+    affiliation: "VNU Information Technology Institute, Vietnam National University, Hanoi (VNU-ITI), Vietnam"
+  - given-names: Xuan-Tu
+    family-names: Tran
+    affiliation: "VNU Information Technology Institute, Vietnam National University, Hanoi (VNU-ITI), Vietnam"
+repository-code: "https://github.com/letienhieu/noc-congestion"
+license: MIT
+version: 1.0.0
+date-released: "2026-08-29"
+keywords:
+  - Network-on-Chip
+  - congestion prediction
+  - graph neural network
+  - spatiotemporal learning
+  - Neo4j

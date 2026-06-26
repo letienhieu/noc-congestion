@@ -1,0 +1,8 @@
+{
+  "window": 5,
+  "epochs": 15,
+  "lr": 0.005,
+  "weight_decay": 0.0005,
+  "hidden": 32,
+  "seed": 42
+}

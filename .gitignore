@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+
+data/raw/**
+!data/raw/.gitkeep
+
+neo4j/data/
+*.dump
